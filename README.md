@@ -12,4 +12,4 @@
 - 20 GB storage
 - t2.micro
 
-###Note
+
