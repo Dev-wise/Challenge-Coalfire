@@ -13,3 +13,4 @@
 - t2.micro
 
 
+###Note: The 20 GB torage was added as an ELB
